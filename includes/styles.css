@@ -1,0 +1,67 @@
+#beam-checkout-btn {
+    border: none !important;
+    border-radius: 32px !important;
+    background-color: #08154d !important;
+    color: #FFF !important;
+    height: 48px;
+    line-height: 1em !important;
+    width: 100% !important;
+}
+
+#beam-checkout-btn.small-margin-top {
+    margin-top: 8px !important;
+}
+#beam-checkout-btn.medium-margin-top {
+    margin-top: 16px !important;
+}
+#beam-checkout-btn.large-margin-top {
+    margin-top: 24px !important;
+}
+
+#beam-checkout-btn.small-margin-bottom {
+    margin-bottom: 8px !important;
+}
+#beam-checkout-btn.medium-margin-bottom {
+    margin-bottom: 16px !important;
+}
+#beam-checkout-btn.large-margin-bottom {
+    margin-bottom: 24px !important;
+}
+
+#beam-checkout-btn.small-margin-left {
+    margin-left: 8px !important;
+}
+#beam-checkout-btn.medium-margin-left {
+    margin-left: 16px !important;
+}
+#beam-checkout-btn.large-margin-left {
+    margin-left: 24px !important;
+}
+
+#beam-checkout-btn.small-margin-right {
+    margin-right: 8px !important;
+}
+#beam-checkout-btn.medium-margin-right {
+    margin-right: 16px !important;
+}
+#beam-checkout-btn.large-margin-right {
+    margin-right: 24px !important;
+}
+
+#beam-checkout-btn:hover {
+    background-color: #152c8b !important;
+}
+
+.btn-wrapper {
+    display: inline-flex;
+    align-items: center;
+}
+
+.fullwidth {
+    width: 100%;
+}
+
+.beam-logo {
+    margin-right: 6px;
+    height: 1.25em;
+}
